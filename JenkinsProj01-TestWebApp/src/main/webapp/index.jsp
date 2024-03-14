@@ -2,4 +2,4 @@
 
 
 
-<h1> Welcome to Jenkins  and date and time :: <%=new Date() %></h1>
+<h1 style="color:red"> Welcome to Jenkins  and date and time :: <%=new Date() %></h1>
